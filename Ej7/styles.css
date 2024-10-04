@@ -1,0 +1,9 @@
+p:first-of-type{
+    background-color: red;
+}
+p:nth-of-type(2){
+    background-color: #ff8080;
+}
+p:last-of-type{
+    background-color: rgb(255, 170, 187);
+}

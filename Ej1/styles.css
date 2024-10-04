@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+    color: green;
+}
+p:nth-last-of-type(even){
+    background-color: yellow;
+    border: 1px black solid;
+    font-weight: bolder;
+}
+p:nth-last-of-type(odd){
+    border: dotted;
+    border-width: 1px;
+    font-style: italic;
+}
