@@ -1,0 +1,11 @@
+div{
+    background-color: #ffffaa;
+    border: solid red 1px;
+    padding-top: 100px;
+    padding-left: 30px;
+    margin-bottom: 50px;
+}
+p{
+    margin-bottom: 0px;
+    font-weight: bolder;
+}
